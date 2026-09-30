@@ -1,0 +1,6 @@
+{
+  "name": "Client Ready — Payment Successful",
+  "description": "Your transaction is complete. Access your premium freelance templates and guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
